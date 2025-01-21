@@ -1,0 +1,14 @@
+body{
+    background-color: cornflowerblue;
+}
+.btn-outline{
+    background-color: blueviolet;
+    cursor:pointer;
+    color:white;
+    border-top: 10px;
+    border-radius: 2px;
+
+}
+.btn-outline:hover{
+    background-color: brown;
+}
